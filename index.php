@@ -9,5 +9,7 @@
     <?php
         echo "Hello World";
     ?>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam, maxime.</p>
 </body>
 </html>
